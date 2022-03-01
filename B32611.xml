@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices and Council. Mich. Armach. C. Granard. Whereas by proclamation dated the 20th. of June 1685. for the reasons therein expressed, we did strictly require and command every captain, or in his absence, and other officer in chief of the militia within this kingdom, ... to call for and gather together all the fire-arms appertaining to his troop ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32611</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[17]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R225847</idno>
+            <idno type="EEBO-CITATION">99886331</idno>
+            <idno type="PROQUEST">ocm99886331</idno>
+            <idno type="VID">186589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B32611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186589)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices and Council. Mich. Armach. C. Granard. Whereas by proclamation dated the 20th. of June 1685. for the reasons therein expressed, we did strictly require and command every captain, or in his absence, and other officer in chief of the militia within this kingdom, ... to call for and gather together all the fire-arms appertaining to his troop ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Granard, Arthur Forbes, Earl of, 1623-1696.</author>
+               </titleStmt>
+               <extent>3 sheets ([3] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, printer to the Kings most excellent Majesty, and are to be sold by Andrew Crook, at His Majesties Printing-house on Ormonde-Key, and Samuel Helsham at the Colledge-Arms in Castle-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At end of text: Given at the Council-chamber in Dublin, the 16th. day of October. 1685.</note>
+                  <note>Recites proclamation 20 June 1685, and the means employed to enforce it ... -- Steele.</note>
+                  <note>Steele notation: Arms 185. or ther 2) they 3) be- We.</note>
+                  <note>Wing I748 title reads: By the Lords Justice and Council. Whereas by proclamation . . . [16 October 1685].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Militia --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+               <term>Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186589:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> BY THE Lords Juſtices AND COUNCIL.</head>
+            <opener>
+               <signed>Mich. Armach. C. Granard.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by Proclamation dated the <hi>20th.</hi> of <hi>June</hi> 1685. for the reaſons therein expreſſed, We did ſtrictly Require and Command every Captain, or in his abſence, any other Officer in Chief of the Mi<g ref="char:EOLhyphen"/>litia within this Kingdom, as well of Horſe as of Foot, on or before the <hi>14th.</hi> day of <hi>July</hi> then next, to call for and gather together all the Fire-Arms appertaining to his Troop or Company, and to Lodge the ſame in his own Dwelling-Houſe, or the next adjacent place where they may be beſt ſecured from any evil deſigns whatſoever. And we did fur<g ref="char:EOLhyphen"/>ther Require all ſuch Captains or other Officers as aforeſaid, immediately upon receipt of the ſaid Arms, to return an account to Vs the Lords Iuſtices or other Chief Governor or Governors of this Kingom for the time being, and Council, or to the Clerke of the Council, what number of Arms were ſo delivered into their cuſtody, with the ſeveral kinds of them, and the Names of ſuch Perſons as ſhall not give in their Arms before the aforeſaid <hi>14th.</hi> day of <hi>July</hi> then next, and whether the ſaid Arms were delivered out of the Stores, bought by the County, given by the Officer, or paid for by the private men. And the ſaid Militia Captains, or other Officers as aforeſaid, were by the ſaid Proclamation Required
+<pb facs="tcp:186589:2"/> to keep the Arms when ſo lodged, clean, and in good order, that they may be fit for the Militia upon days of Exerciſe, or for ſuch other uſes as His Majeſty may have for them. In purſuance of which Proclamation, ſeveral returns have been made by the Officers of the Militia. Whereby it appears that many of the ſaid Arms did remain in the hands of particular perſons, who in contempt of the Commands of this Board refuſed or delayed to return them to the ſaid Officers as they were Required. Whereof We the Lords Iuſtices having taken Notice, did by Our Letters to the Collonels, or other Superior Officers of the ſeveral Regiments of Horſe and Foot of His Majeſties Army in this Kingdome, deſire and authorize them to inform themſelves what Returns the ſeveral Militia Officers of the ſeveral Towns and Counties within the Province wherein their Regiments were Quartered, have made of Arms Purſuant to the ſaid Proclamation; and where ill Returns, or none at all have been made, they were to cauſe the Cap<g ref="char:EOLhyphen"/>tains, or the Officers commanding in Chief, each Militia Troop and Company that have been negligent therein, forthwith to bring in the Arms of their Troops or Companies wherein the ſaid Officers of the Regiments of the Army were to take the Advice and Aſſiſtance of the Sheriffs and Iuſtices of the Peace in the ſaid ſeveral Counties; and in caſe any of them ſhould further delay to give an Account as by the ſaid Proclamation was directed, the ſaid Officers of the Regiment were then to cauſe ſuch Arms to be Collected according to the Proclamation, and a perfect Liſt made thereof, expresſing the number and kinds, and the Perſons Names to whom they did belong, and to ſend the ſame to Vs the Lords Iuſtices.</p>
+            <p>And We being now informed, that ſeveral of the ſaid Officers of the Ar<g ref="char:EOLhyphen"/>my have, in purſuance of the ſaid Letters, collected divers of the ſaid Mi<g ref="char:EOLhyphen"/>litia Arms, which as yet remain under their Cuſtody, or of other perſons entruſted by them. We think fit hereby to require not only the ſaid Offi<g ref="char:EOLhyphen"/>cers of the Army, but alſo all ſuch particular perſons, as aforeſaid, who detain any of the ſaid Militia Arms, forthwith to deliver, or cauſe to be delivered, all the ſaid Arms ſo collected by the ſaid Officers, or detained by the ſaid particular perſons, to the the reſpective Captains, or other Officers in chief of the ſaid Troops or Companies of the Militia, who by the ſaid former Proclamation were authorized to receive the ſame.</p>
+            <p>And for the better preſervation of the ſaid Arms, and to the end to have them in a readineſs to anſwer any occaſion of His Majeſties Service, We do hereby in His Majeſties Name require the ſaid Captains, or other Offi<g ref="char:EOLhyphen"/>cers in Chief of the ſaid Militia Troops, or Companies, by or before the ſir<g ref="char:EOLhyphen"/>teénth day of <hi>November</hi> next, to cauſe all the ſaid Arms ſo delivered to them, as aforeſaid, to be ſafely conveyed to one of His Majeſties Stores of Arms and Munition in this Kingdom, <hi>viz.</hi> for the Province of <hi>Leinſter</hi> to the Stores at <hi>Dublin</hi> or <hi>Athloane;</hi> for the Province of <hi>Munſter</hi> to the Stores of <hi>Corke, Kinſale, Lymerick, Waterford,</hi> or <hi>Duncannon;</hi> for the Province of <hi>Connaght</hi> to the Stores of <hi>Gallway,</hi> or <hi>Athloane;</hi> and for the Province of <hi>Ulſter</hi> to the Stores of <hi>Londonderry, Carigfergus</hi> or <hi>Charlemont;</hi> and there to deliver all the ſaid Arms which ſhall ſo come to their hands, together with a Liſt containing the number and kinds of them, and of the Names
+<pb facs="tcp:186589:3"/> of the particular perſons of the Militia, to whom they do reſpectively be<g ref="char:EOLhyphen"/>long, unto the Clerks of the ſaid Stores reſpectively, who are hereby re<g ref="char:EOLhyphen"/>quired to receive them, and to give acknowledgments under their Hands of the Receipts of the ſaid Arms upon a Duplicate of the ſaid Liſt ſo to be received by them; and from time to time to give Vs an exact account of what Arms they ſhall receive, and from whom.</p>
+            <p>And we do hereby declare, that the Charge of Conveying the ſaid Arms ſhall be paid by His Majeſty, and to that end the ſaid Captains and other Officers of the Militia, who are to deliver the ſaid Arms into the Stores as aforeſaid, are immediately after the Delivery thereof to ſend the Clerk of the Council a Note of their reaſonable Charge in this matter, which We ſhall take care ſhall be paid unto them accordingly by His Majeſty.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the <hi>Council-Chamber</hi> in <hi>Dublin,</hi>
+                  </hi> 
+                  <date>
+                     <hi>the 16th day of <hi>October.</hi>
+                     </hi> 1685:</date>
+               </dateline> 
+               <hi>GOD Save the KING.</hi>
+               <signed>Franc. Dublin. Longford. Bleſinton. Mountjoy. Cha. Feilding. John Kearing. He. Hene. John Davies. Ric. Reynell. Tho. Newcomen.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBLIN, Printed by Benjamin Tooke, Printer to the Kings Moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, and are to be Sold by Andrew Crook, at His Majeſties Printing-houſe on Ormonde-Key, and Samuel Helſham, at the Colledge-Arms in Caſtle-ſtreet,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
